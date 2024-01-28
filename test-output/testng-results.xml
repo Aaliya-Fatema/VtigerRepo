@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T09:15:10Z" name="Default suite" finished-at="2023-12-05T09:17:47Z" duration-ms="157233">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T09:15:10Z" name="Default test" finished-at="2023-12-05T09:17:47Z" duration-ms="157233">
+      <class name="com.qsp.vtiger.oppertunities.CreateOppertunitiesTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:15:10Z" name="bsConfig" finished-at="2023-12-05T09:15:10Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="btConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:15:10Z" name="btConfig" finished-at="2023-12-05T09:15:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:15:10Z" name="bcConfig" finished-at="2023-12-05T09:15:39Z" duration-ms="28557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:15:39Z" name="bmConfig" finished-at="2023-12-05T09:15:49Z" duration-ms="10113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createOppertunitiesAndVerifyOppertunitiesInformationTest()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:15:49Z" name="createOppertunitiesAndVerifyOppertunitiesInformationTest" finished-at="2023-12-05T09:17:25Z" duration-ms="96169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOppertunitiesAndVerifyOppertunitiesInformationTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:17:25Z" name="amConfig" finished-at="2023-12-05T09:17:41Z" duration-ms="16126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:17:41Z" name="acConfig" finished-at="2023-12-05T09:17:47Z" duration-ms="5954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="atConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:17:47Z" name="atConfig" finished-at="2023-12-05T09:17:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.qsp.vtiger.oppertunities.CreateOppertunitiesTest@5c44c582]" started-at="2023-12-05T09:17:48Z" name="asConfig" finished-at="2023-12-05T09:17:48Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- com.qsp.vtiger.oppertunities.CreateOppertunitiesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

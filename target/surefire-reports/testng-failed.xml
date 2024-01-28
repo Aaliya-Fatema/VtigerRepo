@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="com.qsp.vtiger.organizations.CreateOrganizationsTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="toCreateAnOrganizationAndVerifyTheOrganizationsDetails"/>
+          <include name="amConfig"/>
+          <include name="bcConfig"/>
+          <include name="btConfig"/>
+          <include name="acConfig"/>
+          <include name="atConfig"/>
+        </methods>
+      </class> <!-- com.qsp.vtiger.organizations.CreateOrganizationsTest -->
+      <class name="com.qsp.vtiger.products.CreateProductTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="amConfig"/>
+          <include name="createProductAndVerifyProductInformationTest"/>
+          <include name="bcConfig"/>
+          <include name="btConfig"/>
+          <include name="acConfig"/>
+          <include name="atConfig"/>
+        </methods>
+      </class> <!-- com.qsp.vtiger.products.CreateProductTest -->
+      <class name="com.qsp.vtiger.leads.ToCreateALeadTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="amConfig"/>
+          <include name="toCreateALeadAndVerifyTheLeadDetails"/>
+          <include name="bcConfig"/>
+          <include name="btConfig"/>
+          <include name="acConfig"/>
+          <include name="atConfig"/>
+        </methods>
+      </class> <!-- com.qsp.vtiger.leads.ToCreateALeadTest -->
+      <class name="com.qsp.vtiger.oppertunities.CreateOppertunitiesTest">
+        <methods>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="amConfig"/>
+          <include name="bcConfig"/>
+          <include name="btConfig"/>
+          <include name="acConfig"/>
+          <include name="atConfig"/>
+          <include name="createOppertunitiesAndVerifyOppertunitiesInformationTest"/>
+        </methods>
+      </class> <!-- com.qsp.vtiger.oppertunities.CreateOppertunitiesTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

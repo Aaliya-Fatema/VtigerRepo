@@ -1,0 +1,8 @@
+com\qsp\vtiger\leads\DemoLeadTest.class
+com\qsp\vtiger\organizations\CreateOrganizationsTest.class
+JDBC\ToExecuteQuerry.class
+com\qsp\vtiger\products\CreateProductTest.class
+com\qsp\vtiger\leads\ToCreateALeadTest.class
+com\qsp\vtiger\oppertunities\CreateOppertunitiesTest.class
+ExtraConcept\CalenderPopUp.class
+JDBC\ToExecuteUpdate.class
