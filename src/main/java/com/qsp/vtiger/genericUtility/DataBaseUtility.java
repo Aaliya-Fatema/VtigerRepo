@@ -1,4 +1,4 @@
-package com.qsp.vtiger.genericUtility;
+ package com.qsp.vtiger.genericUtility;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

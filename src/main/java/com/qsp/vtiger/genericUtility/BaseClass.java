@@ -30,7 +30,7 @@ public class BaseClass {
 
 	
 		@BeforeSuite(groups= {"smoke","regression"})
- 	 public void bsConfig() {// throws SQLException {
+ 	 public void bsConfig() {/** throws SQLException {
 
 		 // 1. Creating an object of Driver of MY SQL vendor
 		// Driver dataBaseDriver = new Driver();
@@ -39,7 +39,7 @@ public class BaseClass {
 		// 3. Establishing connection with the data base
 		//connection = DriverManager.getConnection(IPathConstant.EXCEL_FILE_PATH, IPathConstant.EXCEL_FILE_PATH, IPathConstant.DATABASE_PASSWORD);
 
-		System.out.println("Database connection has been established");
+		System.out.println("Database connection has been established");**/
 	 }
     @BeforeTest(groups= {"smoke","regression"})
 	
